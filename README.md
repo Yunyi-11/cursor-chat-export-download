@@ -34,10 +34,10 @@ This tool helps you export chat records from the Cursor application and save the
 
 You can use the following commands to export chat records:
 
-   ## Export Example
+## Export Example
    
-   ![Export Example]("images/all chats example.png")
-   ![Questions Example]("images/all user questions example.png")
+![Export Example]("images/all chats example.png")
+![Questions Example]("images/all user questions example.png")
 
 
 ### Export Current Chat
