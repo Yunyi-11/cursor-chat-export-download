@@ -73,7 +73,7 @@ If you encounter the error "Database for current workspace not found", please en
 Common issues:
 - **Permission denied**: Run `chmod +x chat_export.py` to make the script executable
 - **Python version error**: Ensure you're using Python 3.6+ with `python3 --version`
-- **Export failure**: Make sure 'chat_export.py' is put in the right directory '~/Downloads/cursor-chat-history/export'.
+- **Export failure**: Make sure `chat_export.py` is put in the right directory `~/Downloads/cursor-chat-history/export`.
 
 ## For Windows Users
 
