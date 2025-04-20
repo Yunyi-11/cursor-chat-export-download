@@ -34,12 +34,6 @@ This tool helps you export chat records from the Cursor application and save the
 
 You can use the following commands to export chat records:
 
-## Export Example
-   
-![Export Example](all%20chats%20example.png)
-![Questions Example](all%20user%20questions%20example.png)
-
-
 ### Export Current Chat
 ```bash
 python3 ~/Downloads/cursor-chat-history/chat_export.py current
@@ -59,6 +53,11 @@ python3 ~/Downloads/cursor-chat-history/chat_export.py summary
 ```bash
 python3 ~/Downloads/cursor-chat-history/chat_export.py current-summary
 ```
+
+## Export Example
+   
+![Export Example](all%20chats%20example.png)
+![Questions Example](all%20user%20questions%20example.png)
 
 ## Export File Location
 
