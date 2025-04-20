@@ -44,7 +44,7 @@ python3 ~/Downloads/cursor-chat-history/chat_export.py current
 python3 ~/Downloads/cursor-chat-history/chat_export.py all
 ```
 
-### Export User Question Summary
+### Export All User Question Summary
 ```bash
 python3 ~/Downloads/cursor-chat-history/chat_export.py summary
 ```
@@ -69,6 +69,11 @@ If you encounter the error "Database for current workspace not found", please en
 1. You have opened a workspace in Cursor
 2. The workspace has chat records
 3. Try having some conversations in Cursor before running the export
+
+Common issues:
+- **Permission denied**: Run `chmod +x chat_export.py` to make the script executable
+- **Python version error**: Ensure you're using Python 3.6+ with `python3 --version`
+- **Export trouble**: Make sure chat_export.py is put in the right directory.(~/Downloads/cursor-chat-history/export)
 
 ## For Windows Users
 
