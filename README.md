@@ -36,8 +36,8 @@ You can use the following commands to export chat records:
 
 ## Export Example
    
-![Export Example](images/all%20chats%20example.png)
-![Questions Example](images/all%20user%20questions%20example.png)
+![Export Example](main/all%20chats%20example.png)
+![Questions Example](main/all%20user%20questions%20example.png)
 
 
 ### Export Current Chat
