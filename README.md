@@ -26,7 +26,7 @@ This tool helps you export chat records from the Cursor application and save the
    ```bash
    mkdir -p ~/Downloads/cursor-chat-history
    cd ~/Downloads/cursor-chat-history
-   curl -o chat_export.py https://your-download-url/chat_export.py
+   curl -o chat_export.py https://raw.githubusercontent.com/Yunyi-11/cursor-chat-export-download/main/chat_export.py
    chmod +x chat_export.py
    ```
 
