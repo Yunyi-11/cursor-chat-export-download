@@ -57,11 +57,17 @@ python3 ~/Downloads/cursor-chat-history/chat_export.py current-summary
 ## Export Example
    
 ![Export Example](all%20chats%20example.png)
-![Questions Example](all%20user%20questions%20example.png)
+![Questions Example](all%20user%20questions%20example.jpg)
 
 ## Export File Location
 
 All exported files will be saved in the `~/Downloads/cursor-chat-history/export` directory. Filenames include the export type and timestamp.
+
+## Export Limitations
+
+- **Attachments:** Exported chat records do not include actual content of attachments uploaded by users. The tool only marks where attachments were added with a placeholder "(User inserted an attachment📎)".
+- **Code Files:** Code files generated or displayed by Cursor during conversations are not included in the export. Only the text content of messages is preserved.
+- **Images:** Any images shared in the conversation are not included in the export.
 
 ## Troubleshooting
 
